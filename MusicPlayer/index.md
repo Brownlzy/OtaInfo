@@ -31,7 +31,7 @@
 
 **更多信息**：[赞助作者](./sponsor.html)
 /
-[开源组件](./opensource.html)
+[开源组件](./opensource_mpv.html)
 
 #### 统计信息 
 
