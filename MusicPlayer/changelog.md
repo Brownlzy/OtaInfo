@@ -3,6 +3,12 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
+### 4.0.5
+
+1.支持超过100分钟的lrc歌词时间轴
+
+2.支持WebDAV标签歌词缓存完成前立即显示
+
 ### 4.0.4
 
 1.修复一些bug

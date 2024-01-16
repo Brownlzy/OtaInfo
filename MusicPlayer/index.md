@@ -6,13 +6,13 @@
 </script>
 
 ### 最新版本 
-**APP:4.0.4** / **服务端:1.2.5**
+**APP:4.0.5** / **服务端:1.2.5**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
 #### 下载方式
 
-**网盘下载**：(**推荐** 不限速) [蓝奏云盘](https://wwwb.lanzouw.com/b03wch90j) (密码：g7al)
+**网盘下载**：(**推荐**) [123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 #### 帮助信息
 **常见问题**：[创建文件夹歌单](./locallist.html)
