@@ -3,6 +3,10 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
+### 4.0.6
+
+1.音频焦点增加强制模式
+
 ### 4.0.5
 
 1.支持超过100分钟的lrc歌词时间轴

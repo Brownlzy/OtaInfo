@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.0.5",
-    "lastVersionCode":257,
-    "size":"47.5MB",
+    "lastVersionName":"4.0.6",
+    "lastVersionCode":258,
+    "size":"15.2MB",
     "filename":"",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct":false,
     "copy":"EURJ",
-    "date":"2024/1/16",
+    "date":"2024/1/31",
     "ignore":true,
-    "changLog":"1.支持超过100分钟的lrc歌词时间轴\n2.支持WebDAV标签歌词缓存完成前立即显示"
+    "changLog":"1.音频焦点增加强制模式"
 }
