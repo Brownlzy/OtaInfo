@@ -3,7 +3,7 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
-首先需要准备好最新版**综音服务端程序**，程序可在[官网](https://brownlzy.github.io/MyOtaInfo/MusicPlayer/)下载。
+首先需要准备好最新版**综音服务端程序**，程序可在[官网](https://ota.abrown.top/MusicPlayer/)下载。
 
 本教程使用的版本为：```1.1.4```
 

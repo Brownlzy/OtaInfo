@@ -3,6 +3,6 @@
     "loadOnlineFlag":true,
     "enabled":false,
     "disableMsg":"当前版本过旧，请前往官网下载最新版本。",
-    "manualUrl":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/",
+    "manualUrl":"https://ota.abrown.top/MusicPlayer/",
     "feedbackUrl":"https://support.qq.com/product/498931"
 }
