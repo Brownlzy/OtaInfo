@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.0.6",
-    "lastVersionCode":258,
+    "lastVersionName":"4.1.0",
+    "lastVersionCode":259,
     "size":"15.2MB",
     "filename":"",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct":false,
     "copy":"EURJ",
-    "date":"2024/1/31",
+    "date":"2024/2/13",
     "ignore":true,
-    "changLog":"1.音频焦点增加强制模式"
+    "changLog":"1.修复无法检查更新和通知的问题"
 }
