@@ -7,7 +7,7 @@
     "forceLogin":false,
     "forceUpdate":true,
     "forceLoginV":2147483647,
-    "forceUpdateV":255,
+    "forceUpdateV":245,
     "beta":false,
     "defaultTheme":2,
     "manualUrl":"https://ota.abrown.top/MusicPlayer/",
