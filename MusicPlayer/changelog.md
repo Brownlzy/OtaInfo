@@ -3,9 +3,11 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
-### 4.1.0
+### 4.1.1
 
 1.修复无法检查更新和通知的问题
+
+2.修复从其他应用打开的本地文件无法正确读取标签信息的问题
 
 ### 4.0.6
 
