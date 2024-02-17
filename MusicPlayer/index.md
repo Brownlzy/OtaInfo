@@ -15,13 +15,13 @@
 **网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 ### 近期更新 
-#### **APP:4.1.1** [更多](./changelog.html)
+**APP:4.1.1** [更多](./changelog.html)
 
 1.修复无法检查更新和通知的问题
 
 2.修复从其他应用打开的本地文件无法正确读取标签信息的问题
 
-#### **服务端:1.2.5** [更多](./changelogS.html)
+**服务端:1.2.5** [更多](./changelogS.html)
 
 1.支持自定义数据库文件名
 
