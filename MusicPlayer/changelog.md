@@ -3,6 +3,10 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
+### 4.1.2
+
+1.修复某些情况下无法加载在线歌单的问题
+
 ### 4.1.1
 
 1.修复无法检查更新和通知的问题

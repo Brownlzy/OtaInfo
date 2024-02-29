@@ -3,6 +3,10 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
+### 1.2.6
+
+1.修复动态主机名相关问题
+
 ### 1.2.5
 
 1.支持自定义数据库文件名

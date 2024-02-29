@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.1.1",
-    "lastVersionCode":260,
+    "lastVersionName":"4.1.2",
+    "lastVersionCode":261,
     "size":"15.2MB",
     "filename":"",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct":false,
     "copy":"EURJ",
-    "date":"2024/2/17",
+    "date":"2024/3/1",
     "ignore":true,
-    "changLog":"1.修复无法检查更新和通知的问题\n2.修复从其他应用打开的本地文件无法正确读取标签信息的问题"
+    "changLog":"1.修复某些情况下无法加载在线歌单的问题"
 }
