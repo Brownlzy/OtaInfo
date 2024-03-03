@@ -2,6 +2,7 @@ MusicPlayer/RSAKey
 MusicPlayer/usr/userHash
 MusicPlayer/apk/apk_his.7z
 MusicPlayer/apk/*b.apk
+MusicPlayer/apk/
 MusicPlayer/egmusic
 MusicPlayer/bak
 MusicPlayer/usr2/shaKey
@@ -9,3 +10,4 @@ MusicPlayer/usr2/userHash
 MusicPlayer/usr_o
 MusicPlayer/*.bak
 MusicPlayer/*/*.bak
+debug.json

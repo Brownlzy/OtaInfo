@@ -16,7 +16,6 @@
     "updateChanel":"https://ota.abrown.top/MusicPlayer/policy/updateinfo_mpv.json",
     "updateChanelBeta":"https://ota.abrown.top/MusicPlayer/policy/updateinfo_mpv_beta.json",
     "feedbackUrl":"https://support.qq.com/product/498931",
-    "directUpdateHead":"https://ota.abrown.top/MusicPlayer/apk/",
     "userHead":"https://ota.abrown.top/MusicPlayer/usr2/",
     "changeLog":"https://ota.abrown.top/MusicPlayer/changelog.html",
     "openSource":"https://ota.abrown.top/MusicPlayer/opensource_mpv.html",

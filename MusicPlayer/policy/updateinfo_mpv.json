@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.1.2",
-    "lastVersionCode":262,
-    "size":"15.2MB",
-    "filename":"",
+    "lastVersionName":"4.1.3",
+    "lastVersionCode":264,
+    "size":"15.7MB",
+    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.1.3(264).apk",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
-    "direct":false,
+    "direct2":true,
     "copy":"EURJ",
-    "date":"2024/3/1",
-    "ignore":true,
-    "changLog":"1.修复某些情况下无法加载在线歌单的问题"
+    "date":"2024/3/3",
+    "ignore":false,
+    "changLog":"1.增加自动更新设置\n2.优化错误日志记录\n3.增加数据备份至WebDAV"
 }

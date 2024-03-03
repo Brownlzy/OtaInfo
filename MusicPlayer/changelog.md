@@ -3,6 +3,14 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
+### 4.1.3
+
+1.增加自动更新设置
+
+2.优化错误日志记录
+
+3.增加数据备份至WebDAV
+
 ### 4.1.2
 
 1.修复某些情况下无法加载在线歌单的问题
