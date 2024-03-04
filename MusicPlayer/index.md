@@ -6,7 +6,7 @@
 </script>
 
 ### 最新版本 
-**APP:4.1.3** / **服务端:1.2.6**
+**APP:4.2.0** / **服务端:1.2.6**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
@@ -15,7 +15,7 @@
 **网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 ### 近期更新 
-**APP:4.1.3** [更多](./changelog.html)
+**APP:4.2.0** [更多](./changelog.html)
 
 1.增加自动更新设置
 

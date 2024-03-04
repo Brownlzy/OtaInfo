@@ -10,6 +10,8 @@
     "forceUpdateV":245,
     "beta":false,
     "defaultTheme":2,
+    "reLoginDate":1672502400000,
+    "greyDate":["1213","0512"],
     "manualUrl":"https://ota.abrown.top/MusicPlayer/",
     "supportUrl":"https://ota.abrown.top/MusicPlayer/sponsor.html",
     "newsUrl":"https://ota.abrown.top/MusicPlayer/policy/newsboard_mpv.json",
@@ -27,6 +29,15 @@
     "nApiList":"http://music.163.com/api/v6/playlist/detail?id=${id}&offset=0&total=true&limit=100000&n=100000",
     "nApiUser":"http://music.163.com/api/user/playlist/?offset=0&limit=1000&uid=${id}",
     "nApiShare":"https://y.music.163.com/m/playlist",
-    "reLoginDate":1672502400000,
-    "greyDate":["1213","0512"]
+    "bApiLevel":2,
+    "bApiSeasonRegex":"^https://space\\.bilibili\\.com/\\d+/channel/seriesdetail\\?sid=\\d+&?.*",
+    "bApiCollectionRegex":"^https://space\\.bilibili\\.com/\\d+/channel/collectiondetail\\?sid=\\d+&?.*",
+    "bApiDetailRegex":"^BV[a-zA-Z0-9]+",
+    "bApiSeries":"https://api.bilibili.com/x/series/series?series_id=${sid}",
+    "bApiSeriesDetail":"https://api.bilibili.com/x/series/archives?mid=${mid}&series_id=${sid}&only_normal=true&sort=desc&pn=${page}&ps=100",
+    "bApiCollection":"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=${mid}&season_id=${sid}&sort_reverse=false&page_num=${page}&page_size=100",
+    "bApiDetail":"https://api.bilibili.com/x/web-interface/wbi/view/detail?platform=web&bvid=${bvid}&need_operation_card=1&web_rm_repeat=1&need_elec=1&out_referer=https%3A%2F%2Fwww.bilibili.com%2F&page_no=1&p=1&gaia_source=main_web",
+    "bApiUser":"https://api.bilibili.com/x/web-interface/card?mid=${mid}",
+    "bApiBvHead":"https://www.bilibili.com/video/",
+    "bApiReferer":"https://www.bilibili.com/"
 }
