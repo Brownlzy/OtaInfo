@@ -37,15 +37,11 @@
 
 [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) 0.0.1
 
-[mpv-android/mpv-android](https://github.com/mpv-android/mpv-android/blob/master/LICENSE) 2023-06-04
-
 ### [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
 [andyglick/jaudiotagger](https://github.com/andyglick/jaudiotagger/blob/master/license.txt) 3.0.1
 
 [TritonDataCenter/java-fast-md5](https://github.com/TritonDataCenter/java-fast-md5/blob/master/LICENSE) 2.7.1
-
-[mpv-player/mpv](https://github.com/mpv-player/mpv/blob/master/LICENSE.LGPL) 0.35.0
 
 
 本文总阅读量<span id="busuanzi_value_page_pv"></span>次
