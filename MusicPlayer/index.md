@@ -1,4 +1,4 @@
-# BrownMusic官方网站
+# BrownMusic
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
@@ -34,9 +34,9 @@
 /
 [服务器歌单](./apphelp.html)
 
-**联系方式**：邮箱：[brownmusicplayer@outlook.com](mailto:brownmusicplayer@outlook.com)
+**联系方式**：邮箱：[player@abrown.top](mailto:player@abrown.top)
 /
-[反馈链接](https://support.qq.com/product/498931) APP内可由“关于”-“吐个槽”进入
+[兔小巢](https://support.qq.com/product/498931) APP内可由“关于”-“吐个槽”进入
 
 **更新日志**：[APP更新日志](./changelog.html)
 /
@@ -46,11 +46,11 @@
 /
 [开源组件](./opensource_mpv.html)
 
-### 统计信息 
+<!-- ### 统计信息 
 
 本文阅读量<span id="busuanzi_value_page_pv"></span>次
 
-站点访问量<span id="busuanzi_value_site_pv"></span>人次
+站点访问量<span id="busuanzi_value_site_pv"></span>人次 -->
 
 <!-- 站点访客数<span id="busuanzi_value_site_uv"></span>人 -->
 <script>
