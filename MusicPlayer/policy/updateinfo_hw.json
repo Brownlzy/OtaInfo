@@ -1,12 +1,12 @@
 {
     "lastVersionName":"4.2.0",
-    "lastVersionCode":265,
+    "lastVersionCode":267,
     "size":"15.7MB",
-    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusicHuawei_arm64-v8a_4.2.0(265).apk",
+    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusicHuawei_arm64-v8a_4.2.0(267).apk",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct2":true,
     "copy":"EURJ",
-    "date":"2024/3/4",
+    "date":"2024/3/8",
     "ignore":false,
     "changLog":"1.增加自动更新设置\n2.优化错误日志记录\n3.增加数据备份至WebDAV"
 }

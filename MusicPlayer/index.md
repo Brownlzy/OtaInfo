@@ -34,10 +34,6 @@
 /
 [服务器歌单](./apphelp.html)
 
-**联系方式**：邮箱：[player@abrown.top](mailto:player@abrown.top)
-/
-[兔小巢](https://support.qq.com/product/498931) APP内可由“关于”-“吐个槽”进入
-
 **更新日志**：[APP更新日志](./changelog.html)
 /
 [服务端更新日志](./changelogS.html)
@@ -45,6 +41,9 @@
 **更多信息**：[赞助作者](./sponsor.html)
 /
 [开源组件](./opensource_mpv.html)
+
+**联系方式**：邮箱：[player@abrown.top](mailto:player@abrown.top)  
+&emsp;&emsp;&emsp;&emsp;&emsp;兔小巢：[点此进入](https://support.qq.com/product/498931)  （APP内可由“关于”-“吐个槽”进入）
 
 <!-- ### 统计信息 
 
