@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.2.0",
-    "lastVersionCode":267,
+    "lastVersionName":"4.2.1",
+    "lastVersionCode":268,
     "size":"15.7MB",
-    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.2.0(267).apk",
+    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.2.1(268).apk",
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct2":true,
     "copy":"EURJ",
-    "date":"2024/3/8",
+    "date":"2024/3/22",
     "ignore":false,
-    "changLog":"1.增加自动更新设置\n2.优化错误日志记录\n3.增加数据备份至WebDAV"
+    "changLog":"1.增加WebDAV解析进度条\n2.增加无标签信息文件名格式选择\n3.增加了一个*****"
 }

@@ -2,7 +2,13 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
-### 4.2.0
+### 4.2.1
+
+1.增加WebDAV解析进度条
+
+2.增加无标签信息文件名格式选择
+
+3.增加了一个*****
 
 ### 4.1.3
 

@@ -6,7 +6,7 @@
 </script>
 
 ### 最新版本 
-**APP:4.2.0** / **服务端:1.2.6**
+**APP:4.2.1** / **服务端:1.2.6**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
@@ -15,13 +15,11 @@
 **网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 ### 近期更新 
-**APP:4.2.0** [更多](./changelog.html)
+**APP:4.2.1** [更多](./changelog.html)
 
-1.增加自动更新设置
+1.增加WebDAV解析进度条
 
-2.优化错误日志记录
-
-3.增加数据备份至WebDAV
+2.增加无标签信息文件名格式选择
 
 **服务端:1.2.6** [更多](./changelogS.html)
 
