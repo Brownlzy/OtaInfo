@@ -40,7 +40,7 @@
     "bApiUser":"https://api.bilibili.com/x/web-interface/card?mid=${mid}",
     "bApiBvHead":"https://www.bilibili.com/video/",
     "bApiFavlist":"https://api.bilibili.com/x/v3/fav/folder/created/list-all?up_mid=${mid}",
-    "bApiFavcolt":"https://api.bilibili.com/x/v3/fav/folder/collected/list?pn=1&ps=20&up_mid=27547357&platform=web",
+    "bApiFavcolt":"https://api.bilibili.com/x/v3/fav/folder/collected/list?pn=1&ps=20&up_mid=￥{up_mid}&platform=web",
     "bApiFavlistD":"https://api.bilibili.com/x/v3/fav/resource/list?media_id=${media_id}&pn=${page}&ps=20&keyword=&order=mtime&type=0&tid=0&platform=web",
     "bApiFavcoltD":"https://api.bilibili.com/x/space/fav/season/list?season_id=${season_id}&pn=${page}&ps=20",
     "bApiReferer":"https://www.bilibili.com/"
