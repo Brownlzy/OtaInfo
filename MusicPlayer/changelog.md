@@ -2,6 +2,11 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
+
+### 4.2.2
+
+1.修复未缓存WebDAV歌词读取
+
 ### 4.2.1
 
 1.增加WebDAV解析进度条
