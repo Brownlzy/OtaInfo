@@ -39,5 +39,9 @@
     "bApiDetail":"https://api.bilibili.com/x/web-interface/wbi/view/detail?platform=web&bvid=${bvid}&need_operation_card=1&web_rm_repeat=1&need_elec=1&out_referer=https%3A%2F%2Fwww.bilibili.com%2F&page_no=1&p=1&gaia_source=main_web",
     "bApiUser":"https://api.bilibili.com/x/web-interface/card?mid=${mid}",
     "bApiBvHead":"https://www.bilibili.com/video/",
+    "bApiFavlist":"https://api.bilibili.com/x/v3/fav/folder/created/list-all?up_mid=${mid}",
+    "bApiFavcolt":"https://api.bilibili.com/x/v3/fav/folder/collected/list?pn=1&ps=20&up_mid=27547357&platform=web",
+    "bApiFavlistD":"https://api.bilibili.com/x/v3/fav/resource/list?media_id=${media_id}&pn=${page}&ps=20&keyword=&order=mtime&type=0&tid=0&platform=web",
+    "bApiFavcoltD":"https://api.bilibili.com/x/space/fav/season/list?season_id=${season_id}&pn=${page}&ps=20",
     "bApiReferer":"https://www.bilibili.com/"
 }
