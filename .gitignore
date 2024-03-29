@@ -10,4 +10,4 @@ MusicPlayer/usr2/userHash
 MusicPlayer/usr_o
 MusicPlayer/*.bak
 MusicPlayer/*/*.bak
-debug*.json
+debug*

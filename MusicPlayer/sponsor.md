@@ -8,13 +8,13 @@
 
 ![zfbhd.png](./image/zfbhd.jpg)
 
-## 微信赞赏码
-
-![wx.png](./image/wx.png)
-
 ## 支付宝收款码
 
 ![zfb.jpg](./image/zfb.jpg)
+
+## 微信赞赏码
+
+![wx.png](./image/wx.png)
 
 #### 你可以点进来已经很感谢了！
 

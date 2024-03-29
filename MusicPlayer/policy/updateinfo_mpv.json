@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.2.2",
-    "lastVersionCode":270,
+    "lastVersionName":"4.2.3",
+    "lastVersionCode":271,
     "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "direct2":true,
     "copy":"EURJ",
-    "date":"2024/3/27",
+    "date":"2024/3/29",
     "ignore":false,
-    "changLog":"1.修复未缓存WebDAV歌词读取\n2.支持未缓存完成的WebDAV专辑图片提前读取\n3.桌面歌词增加单行样式，优化设置显示\n4.Web服务支持分享已缓存的WebDAV音乐\n5.增加离线模式，自动跳过未缓存的在线音乐\n6.修复正在播放列表失效文件识别错误\n7.增加两个小彩蛋",
+    "changLog":"1.增加歌单分类显示\n2.增加拖动控制进度\n  -曲库页拖动底部胶囊进度条\n  -桌面歌词拖动卡片内歌曲信息\n3.修复专辑封面滑动控制\n4.修复mpv播放在某些场景崩溃的问题\n5.优化部分内容显示效果\n6.支持桌面歌词微调并支持状态栏歌词",
     "size":"15.7MB",
-    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.2.2(270).apk"
+    "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.2.3(271).apk"
 }
