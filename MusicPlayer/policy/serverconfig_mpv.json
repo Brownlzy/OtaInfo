@@ -8,7 +8,7 @@
     "forceUpdate":true,
     "forceLoginV":2147483647,
     "forceUpdateV":245,
-    "beta":false,
+    "beta":true,
     "defaultTheme":2,
     "reLoginDate":1672502400000,
     "openSourceOnline":false,
