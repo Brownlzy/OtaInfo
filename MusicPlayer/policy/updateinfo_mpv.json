@@ -1,12 +1,12 @@
 {
-    "lastVersionName":"4.2.3",
-    "lastVersionCode":271,
-    "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
+    "lastVersionName":"4.2.4",
+    "lastVersionCode":272,
     "direct2":true,
-    "copy":"EURJ",
-    "date":"2024/3/29",
+    "date":"2024/4/9",
     "ignore":false,
-    "changLog":"1.增加歌单分类显示\n2.增加拖动控制进度\n  -曲库页拖动底部胶囊进度条\n  -桌面歌词拖动卡片内歌曲信息\n3.修复专辑封面滑动控制\n4.修复mpv播放在某些场景崩溃的问题\n5.优化部分内容显示效果\n6.支持桌面歌词微调并支持状态栏歌词",
+    "changLog":"1.优化常用功能显示位置\n2.集成华为WearEngineSDK",
+    "copy":"EURJ",
+    "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "size":"15.7MB",
     "directUrl":"https://alist.abrown.top:65244/d/BrownMusicApk/BrownMusic_arm64-v8a_4.2.3(271).apk"
 }
