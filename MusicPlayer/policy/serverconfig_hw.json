@@ -11,6 +11,7 @@
     "beta":false,
     "defaultTheme":4,
     "reLoginDate":1672502400000,
+    "openSourceOnline":false,
     "greyDate":["1213","0512"],
     "manualUrl":"https://ota.abrown.top/MusicPlayer/",
     "supportUrl":"https://ota.abrown.top/MusicPlayer/sponsor.html",
