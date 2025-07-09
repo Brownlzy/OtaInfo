@@ -1,4 +1,4 @@
-# BrownMusic
+# ABrownMusic
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
@@ -6,7 +6,7 @@
 </script>
 
 ### 最新版本 
-**APP:4.2.6** / **服务端:1.2.6**
+**Version 0.0.4**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
@@ -15,31 +15,20 @@
 **网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 ### 近期更新 
-**APP:4.2.3** [更多](./changelog.html)
+**Version 0.0.4** 
 
-1.忘记了
+1.开启边听边下时支持读取WebDAV内嵌歌词
 
-**服务端:1.2.6** [更多](./changelogS.html)
+2.新增我喜欢歌单
 
-1.修复动态主机名相关问题
+3.新增定时停止播放
 
-### 帮助信息
-**常见问题**：[创建文件夹歌单](./locallist.html)
-/
-[服务器教程](./serverhelp.html)
-/
-[服务器歌单](./apphelp.html)
-
-**更新日志**：[APP更新日志](./changelog.html)
-/
-[服务端更新日志](./changelogS.html)
-
-**更多信息**：[赞助作者](./sponsor.html)
-/
-[开源组件](./opensource_mpv.html)
+[更多版本](./changelog.html)
 
 **联系方式**：邮箱：[player@abrown.top](mailto:player@abrown.top)  
 &emsp;&emsp;&emsp;&emsp;&emsp;兔小巢：[点此进入](https://support.qq.com/product/498931)  （APP内可由“关于”-“吐个槽”进入）
+
+**上古版本**：[Legacy](../MusicPlayer/index.md)
 
 <!-- ### 统计信息 
 
