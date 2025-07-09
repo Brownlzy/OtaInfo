@@ -6,7 +6,7 @@
     "apkSize":19903181,
     "updateDate":"2025/7/9",
     "directUrl":null,
-    "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
+    "manualUrl":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "autoCopy":"EURJ",
-    "changLog":"1.开启边听边下时支持读取WebDAV内嵌歌词\n2.新增我喜欢歌单\n3.新增定时停止播放"
+    "changelog":"1.边听边下时支持读取WebDAV内嵌歌词\n2.新增我喜欢歌单\n3.新增定时停止播放"
 }
