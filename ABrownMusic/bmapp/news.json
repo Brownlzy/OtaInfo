@@ -1,7 +1,7 @@
 {
     "jsonVer":1,
     "newsId":1,
-    "hidden":true,
+    "hidden":false,
     "expiredTime":-1,
     "title":null,
     "content":"╰(*°▽°*)╯"
