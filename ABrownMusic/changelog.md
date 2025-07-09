@@ -1,7 +1,7 @@
-# APP更新日志
+# 更新日志
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script> -->
 
 ### 0.0.4
 
@@ -29,4 +29,4 @@
 
 ### 没有更多了...
 
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+<!-- 本文总阅读量<span id="busuanzi_value_page_pv"></span>次 -->
