@@ -6,7 +6,7 @@
 </script>
 
 ### 最新版本 
-**Version 0.0.4 [71be167]**
+**Version 0.0.4 [282]**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
