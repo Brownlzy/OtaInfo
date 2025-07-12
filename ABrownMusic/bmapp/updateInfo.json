@@ -1,12 +1,12 @@
 {
     "jsonVer":1,
     "versionName":"0.0.4",
-    "versionCode":280,
+    "versionCode":281,
     "forceUpdate":277,
-    "apkSize":19922534,
-    "updateDate":"2025/7/10",
+    "apkSize":19939722,
+    "updateDate":"2025/7/12",
     "directUrl":null,
     "manualUrl":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
     "autoCopy":"EURJ",
-    "changelog":"1.边听边下时支持读取WebDAV内嵌歌词\n2.新增我喜欢歌单\n3.新增定时停止播放"
+    "changelog":"1.边听边下时支持读取WebDAV内嵌歌词\n2.新增我喜欢歌单\n3.新增定时停止播放\n4.支持更新检查\n5.优化WebDAV歌词加载"
 }

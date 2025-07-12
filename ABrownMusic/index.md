@@ -6,13 +6,13 @@
 </script>
 
 ### 最新版本 
-**Version 0.0.4 [9a60aa3e]**
+**Version 0.0.4 [71be167]**
 
 <span id="apponly">**您当前版本为 APP:<span id="appver"></span>**</span>
 
 ### 下载方式
 
-**网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
+**网盘下载**：[123云盘](https://www.123684.com/s/IrrWjv-KvgiH) (提取码:FlGF)
 
 ### 近期更新 
 **Version 0.0.4** 

@@ -15,7 +15,7 @@
 **网盘下载**：[123云盘](https://www.123pan.com/s/IrrWjv-RRfiH.html) (提取码:EURJ)
 
 ### 近期更新 
-**APP:4.2.3** [更多](./changelog.html)
+**APP:4.2.6** [更多](./changelog.html)
 
 1.忘记了
 
@@ -40,6 +40,8 @@
 
 **联系方式**：邮箱：[player@abrown.top](mailto:player@abrown.top)  
 &emsp;&emsp;&emsp;&emsp;&emsp;兔小巢：[点此进入](https://support.qq.com/product/498931)  （APP内可由“关于”-“吐个槽”进入）
+
+**全新版本**：[New](../ABrownMusic/index.md)
 
 <!-- ### 统计信息 
 

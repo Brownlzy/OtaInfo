@@ -1,9 +1,9 @@
 {
     "lastVersionName":"4.2.2",
     "lastVersionCode":270,
-    "manual":"https://www.123pan.com/s/IrrWjv-RRfiH.html",
-    "direct2":true,
-    "copy":"EURJ",
+    "direct2":false,
+    "copy":"FlGF",
+    "manual":"https://www.123684.com/s/IrrWjv-KvgiH",
     "date":"2024/3/27",
     "ignore":false,
     "changLog":"1.修复未缓存WebDAV歌词读取\n2.支持未缓存完成的WebDAV专辑图片提前读取\n3.桌面歌词增加单行样式，优化设置显示\n4.Web服务支持分享已缓存的WebDAV音乐\n5.增加离线模式，自动跳过未缓存的在线音乐\n6.修复正在播放列表失效文件识别错误\n7.增加两个小彩蛋",
